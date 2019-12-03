@@ -1,0 +1,18 @@
+html {
+  background-color: #f2f1ed;
+}
+h1 {
+  font-size: 3rem;
+}
+.bold{
+  font-weight: bold;
+}
+.intro {
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+}
+figcaption {
+  font-size: .875rem;
+}
